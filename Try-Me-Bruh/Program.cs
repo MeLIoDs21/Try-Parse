@@ -11,14 +11,14 @@ namespace Try_Me_Bruh
         static void Main(string[] args)
         {
             Console.Write("Enter a whole number: ");
-            int? a;
+            int a;
             TryParse(Console.ReadLine(), out a);
             Console.WriteLine("Talet du skrev är: "+ a);
             System.Threading.Thread.Sleep(3000);
         }
 
 
-        public static bool TryParse(string _A, out int? _Number)
+        public static bool TryParse(string _A, out int _Number)
         {
             try
             {
@@ -28,13 +28,13 @@ namespace Try_Me_Bruh
             catch(FormatException)
             {
                 Console.WriteLine("Felaktig inmättning! Använd bara Heltal.");
-                _Number = null;
+                _Number = 0;
                 return false;
             }
             catch(OverflowException)
             {
                 Console.WriteLine("Felaktig inmättning! Talet är för stort.");
-                _Number = null;
+                _Number = 0;
                 return false;
             }
 
