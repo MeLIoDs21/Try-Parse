@@ -13,7 +13,7 @@ namespace Try_Me_Bruh
             Console.Write("Enter a whole number: ");
             int? a;
             TryParse(Console.ReadLine(), out a);
-            Console.WriteLine(a);
+            Console.WriteLine("Talet du skrev är: "+ a);
             System.Threading.Thread.Sleep(3000);
         }
 
