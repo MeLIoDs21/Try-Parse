@@ -1,0 +1,7 @@
+C:\Users\Elev\source\repos\Try-Me-Bruh\Try-Me-Bruh\bin\Debug\Try-Me-Bruh.exe.config
+C:\Users\Elev\source\repos\Try-Me-Bruh\Try-Me-Bruh\bin\Debug\Try-Me-Bruh.exe
+C:\Users\Elev\source\repos\Try-Me-Bruh\Try-Me-Bruh\bin\Debug\Try-Me-Bruh.pdb
+C:\Users\Elev\source\repos\Try-Me-Bruh\Try-Me-Bruh\obj\Debug\Try-Me-Bruh.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\Try-Me-Bruh\Try-Me-Bruh\obj\Debug\Try-Me-Bruh.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Try-Me-Bruh\Try-Me-Bruh\obj\Debug\Try-Me-Bruh.exe
+C:\Users\Elev\source\repos\Try-Me-Bruh\Try-Me-Bruh\obj\Debug\Try-Me-Bruh.pdb
